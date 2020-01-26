@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Uber-Navidad</string>
+    <string name="app_name">Uber Navideño</string>
+    <string name="button_Cliente">Cliente</string>
+    <string name="button_Repartidor">Repartidor</string>
 </resources>

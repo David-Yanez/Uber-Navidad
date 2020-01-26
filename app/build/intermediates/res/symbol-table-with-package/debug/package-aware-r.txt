@@ -730,8 +730,8 @@ id home
 id homeAsUp
 id icon
 id icon_group
-id id_conductor
-id id_pasajero
+id id_cliente
+id id_repartidor
 id ifRoom
 id image
 id info
@@ -847,7 +847,10 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_registro_cliente
+layout activity_registro_conductor
 layout activity_splash_screem_main
+layout activity_tarjeta_credito
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -901,6 +904,8 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string button_Cliente
+string button_Repartidor
 string search_menu_title
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat

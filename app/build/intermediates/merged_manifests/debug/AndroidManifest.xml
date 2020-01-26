@@ -18,6 +18,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.uber_navidad.RegistroConductor" />
+        <activity android:name="com.example.uber_navidad.RegistroCliente" />
+        <activity android:name="com.example.uber_navidad.TarjetaCredito" />
         <activity android:name="com.example.uber_navidad.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
