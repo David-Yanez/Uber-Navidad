@@ -1269,6 +1269,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/SoftwareUber-master/SoftwareUber-master/SoftwareUber" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
