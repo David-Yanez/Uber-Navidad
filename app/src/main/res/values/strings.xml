@@ -7,6 +7,6 @@
     <string name="txt_telefono">Numero de Telefono</string>
     <string name="txt_password">Password</string>
     <string name="txt_verificar">Verificar Password</string>
-    <string name="txt_formulario">Registro Pasajero</string>
+    <string name="txt_formulario">Registro Cliente</string>
     <string name="button">Siguiente</string>
 </resources>
