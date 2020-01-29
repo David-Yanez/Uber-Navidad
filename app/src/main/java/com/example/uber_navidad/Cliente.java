@@ -1,4 +1,4 @@
-package com.example.uber_navidad.;
+package com.example.uber_navidad;
 
 public class Cliente {
     public String cedula;
