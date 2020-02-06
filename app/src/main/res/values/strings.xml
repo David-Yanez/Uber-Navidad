@@ -1,5 +1,18 @@
 <resources>
-    <string name="app_name">Uber Navideño</string>
-    <string name="button_Cliente">Cliente</string>
-    <string name="button_Repartidor">Repartidor</string>
+    <string name="app_name">Uber-Navidad</string>
+    <string name="id_pasajero">Cliente</string>
+    <string name="id_conductor">Repartidor</string>
+    <string name="txt_cedula">Cédula</string>
+    <string name="txt_Nombre">Nombre</string>
+    <string name="txt_Apellido">Apellido</string>
+    <string name="txt_correo">Correo Electronico</string>
+    <string name="txt_telefono">Numero de Telefono</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_verificar">Verificar Password</string>
+    <string name="txt_formulario">Registro Cliente</string>
+    <string name="txt_numeroTarjeta">Número de Tarjeta</string>
+    <string name="txt_fechaEx">Fecha de Expiracion</string>
+    <string name="txt_codigoSeg">Codigo de Seguridad </string>
+    <string name="button_aceptar"> Aceptar </string>
+    <string name="button">Siguiente</string>
 </resources>
