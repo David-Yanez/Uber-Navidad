@@ -1,7 +1,7 @@
-#Thu Feb 06 14:16:46 COT 2020
-base.0=D\:\\Android\\Final\\Uber-Navidad\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+#Thu Feb 06 21:38:56 COT 2020
+base.0=C\:\\Users\\jerss\\Documents\\Uber-Navidad\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=D\:\\Android\\Final\\Uber-Navidad\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.1=C\:\\Users\\jerss\\Documents\\Uber-Navidad\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

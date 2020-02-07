@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android\\Final\\Uber-Navidad\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\jerss\\Documents\\Uber-Navidad\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\D4v!D\\.gradle\\caches\\transforms-2\\files-2.1\\d97474f8f6bd0b4e859655312e2c777c\\appcompat-1.0.2\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\jerss\\.gradle\\caches\\transforms-2\\files-2.1\\d97474f8f6bd0b4e859655312e2c777c\\appcompat-1.0.2\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\D4v!D\\.gradle\\caches\\transforms-2\\files-2.1\\3b2ab9d5476ec4c3b398148b0ab6681b\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\jerss\\.gradle\\caches\\transforms-2\\files-2.1\\3b2ab9d5476ec4c3b398148b0ab6681b\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

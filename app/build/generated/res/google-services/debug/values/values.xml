@@ -4,7 +4,7 @@
     <string name="firebase_database_url" translatable="false">https://ubernavidad.firebaseio.com</string>
     <string name="gcm_defaultSenderId" translatable="false">1021726712290</string>
     <string name="google_api_key" translatable="false">AIzaSyAoa6fL-XHUNAJuTw3I_SJ7pG9QRW4wckQ</string>
-    <string name="google_app_id" translatable="false">1:1021726712290:android:18f2d5483981dfc3f819bb</string>
+    <string name="google_app_id" translatable="false">1:1021726712290:android:a784aba94207db0cf819bb</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAoa6fL-XHUNAJuTw3I_SJ7pG9QRW4wckQ</string>
     <string name="google_storage_bucket" translatable="false">ubernavidad.appspot.com</string>
     <string name="project_id" translatable="false">ubernavidad</string>
