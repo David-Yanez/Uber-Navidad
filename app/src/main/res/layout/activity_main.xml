@@ -96,7 +96,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/id_cedula" />
 
             <EditText
-                android:id="@+id/id_Apellido"
+                android:id="@+id/id_ApellidoR"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginStart="8dp"
@@ -131,7 +131,7 @@
                 android:textSize="24sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/id_Apellido" />
+                app:layout_constraintTop_toBottomOf="@+id/id_ApellidoR" />
 
             <EditText
                 android:id="@+id/id_password"

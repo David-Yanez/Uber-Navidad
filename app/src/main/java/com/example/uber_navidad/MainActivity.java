@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
         edtCedula = (EditText)findViewById(R.id.id_cedula);
         edtNombre = (EditText)findViewById(R.id.id_Nombre);
-        edtApellido = (EditText)findViewById(R.id.id_Apellido);
+        edtApellido = (EditText)findViewById(R.id.id_ApellidoR);
         edtCorreo = (EditText)findViewById(R.id.id_correo);
         edtPassword = (EditText)findViewById(R.id.id_password);
         edtVerifPass = (EditText)findViewById(R.id.id_valPass);
