@@ -15,4 +15,20 @@
     <string name="txt_codigoSeg">Codigo de Seguridad </string>
     <string name="button_aceptar"> Aceptar </string>
     <string name="button">Siguiente</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="menu_home">Tus viajes</string>
+    <string name="menu_gallery">Pago</string>
+    <string name="menu_slideshow">Ayuda</string>
+    <string name="menu_tools">Viajes gratis</string>
+    <string name="menu_share">Configuración</string>
+    <string name="menu_send">Send</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="title_activity_menu_bar">MenuBar</string>
 </resources>
