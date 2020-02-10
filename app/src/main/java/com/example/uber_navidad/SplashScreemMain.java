@@ -27,11 +27,11 @@ public class SplashScreemMain extends AppCompatActivity {
             }
         });
 
-      /*  conductor.setOnClickListener(new View.OnClickListener() {
+        conductor.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent( SplashScreemMain.this,EleccionVehiculo.class));
+                startActivity(new Intent( SplashScreemMain.this,RegistroRepartidor.class));
             }
-        });   */
+        });
     }
 }
