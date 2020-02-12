@@ -36,7 +36,7 @@
     <string name="apellidos">Apellidos:</string>
     <string name="numero_de_cedula">Número de Cédula:</string>
     <string name="fecha_de_nacimiento_aaaa_mm_dd">Fecha de Nacimiento: aaaa-mm-dd</string>
-    <string name="direcci_n">Dirección:</string>
+    <string name="direccion">Dirección:</string>
     <string name="e_mail">e-mail:</string>
     <string name="password">Password:</string>
     <string name="repetir_password">Repetir Password:</string>

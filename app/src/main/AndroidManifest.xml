@@ -27,7 +27,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Permisos" />
+        <activity android:name=".Permisos"></activity>
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -50,9 +50,9 @@
             android:name=".MenuBar"
             android:label="@string/title_activity_menu_bar"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".TarjetaCredito" />
-        <activity android:name=".MainActivity" />
-        <activity android:name=".RegistroRepartidor" />
+        <activity android:name=".TarjetaCredito"></activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".RegistroRepartidor"></activity>
         <activity android:name=".SplashScreemMain">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
