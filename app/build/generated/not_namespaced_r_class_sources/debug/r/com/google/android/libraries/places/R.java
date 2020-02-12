@@ -630,14 +630,14 @@ public final class R {
     public static final class string {
         private string() {}
 
-        public static final int places_autocomplete_clear_button = 0x7f0f0057;
-        public static final int places_autocomplete_label = 0x7f0f0058;
-        public static final int places_autocomplete_no_results_for_query = 0x7f0f0059;
-        public static final int places_autocomplete_search_hint = 0x7f0f005a;
-        public static final int places_cancel = 0x7f0f005b;
-        public static final int places_powered_by_google = 0x7f0f005c;
-        public static final int places_search_error = 0x7f0f005d;
-        public static final int places_try_again = 0x7f0f005e;
+        public static final int places_autocomplete_clear_button = 0x7f0f005e;
+        public static final int places_autocomplete_label = 0x7f0f005f;
+        public static final int places_autocomplete_no_results_for_query = 0x7f0f0060;
+        public static final int places_autocomplete_search_hint = 0x7f0f0061;
+        public static final int places_cancel = 0x7f0f0062;
+        public static final int places_powered_by_google = 0x7f0f0063;
+        public static final int places_search_error = 0x7f0f0064;
+        public static final int places_try_again = 0x7f0f0065;
     }
     public static final class style {
         private style() {}

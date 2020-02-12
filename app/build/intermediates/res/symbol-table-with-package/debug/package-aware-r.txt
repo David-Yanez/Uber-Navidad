@@ -2173,6 +2173,7 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string action_search
 string action_settings
+string apellidos
 string app_name
 string appbar_scrolling_view_behavior
 string back_vector_path
@@ -2200,8 +2201,11 @@ string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
 string default_web_client_id
+string direccion
+string e_mail
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string fecha_de_nacimiento_aaaa_mm_dd
 string firebase_database_url
 string gcm_defaultSenderId
 string google_api_key
@@ -2224,6 +2228,9 @@ string nav_header_desc
 string nav_header_title
 string navigation_drawer_close
 string navigation_drawer_open
+string nombres
+string numero_de_cedula
+string password
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -2240,7 +2247,10 @@ string places_powered_by_google
 string places_search_error
 string places_try_again
 string project_id
+string registro_de_repartidor
+string repetir_password
 string search_menu_title
+string siguiente
 string status_bar_notification_info_overflow
 string title_activity_google_maps
 string title_activity_menu_bar
