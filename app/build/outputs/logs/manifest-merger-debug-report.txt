@@ -20,6 +20,7 @@ MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] C:\Users\jerss\.gradle\ca
 MERGED from [com.android.volley:volley:1.1.1] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\098bfd9d15c12185ee1dc69b1602ab0f\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\e784f8a678ea44afdc5d8546de0f1e45\grpc-android-1.21.0\AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\de8c4da28087a92652b593aa875f4fe1\play-services-places-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\411782e54c7053f770e504e469e54fde\jetified-android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\d5a48cb65f4b68efab677dd0a3029944\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\95cac792b06b7c326f578201166b4b2b\firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\3d8bed9a53529358f2c71b6407804b7b\play-services-measurement-api-17.2.2\AndroidManifest.xml:17:1-36:12
@@ -231,6 +232,8 @@ MERGED from [com.android.volley:volley:1.1.1] C:\Users\jerss\.gradle\caches\tran
 MERGED from [com.android.volley:volley:1.1.1] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\098bfd9d15c12185ee1dc69b1602ab0f\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\de8c4da28087a92652b593aa875f4fe1\play-services-places-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\de8c4da28087a92652b593aa875f4fe1\play-services-places-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\411782e54c7053f770e504e469e54fde\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\411782e54c7053f770e504e469e54fde\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\d5a48cb65f4b68efab677dd0a3029944\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\d5a48cb65f4b68efab677dd0a3029944\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\95cac792b06b7c326f578201166b4b2b\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
@@ -298,11 +301,13 @@ MERGED from [io.card:android-sdk:5.5.1] C:\Users\jerss\.gradle\caches\transforms
 	android:theme
 		ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:29:9-40
 activity#com.example.uber_navidad.Permisos
-ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:30:9-46
+ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:30:9-55
 	android:name
 		ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:30:19-43
 meta-data#com.google.android.gms.version
 ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:39:9-41:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\411782e54c7053f770e504e469e54fde\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\411782e54c7053f770e504e469e54fde\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\02d6358792daf21b43df533e93485903\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\02d6358792daf21b43df533e93485903\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
 	android:value
@@ -330,15 +335,15 @@ ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\
 	android:name
 		ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:50:13-36
 activity#com.example.uber_navidad.TarjetaCredito
-ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:53:9-52
+ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:53:9-61
 	android:name
 		ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:53:19-49
 activity#com.example.uber_navidad.MainActivity
-ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:54:9-50
+ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:54:9-59
 	android:name
 		ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:54:19-47
 activity#com.example.uber_navidad.RegistroRepartidor
-ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:55:9-56
+ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:55:9-65
 	android:name
 		ADDED from C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:55:19-53
 activity#com.example.uber_navidad.SplashScreemMain
@@ -391,6 +396,8 @@ MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\jerss\.gradle\caches\transfor
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\e784f8a678ea44afdc5d8546de0f1e45\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\de8c4da28087a92652b593aa875f4fe1\play-services-places-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\de8c4da28087a92652b593aa875f4fe1\play-services-places-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\411782e54c7053f770e504e469e54fde\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\411782e54c7053f770e504e469e54fde\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\d5a48cb65f4b68efab677dd0a3029944\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
 MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\d5a48cb65f4b68efab677dd0a3029944\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\jerss\.gradle\caches\transforms-2\files-2.1\95cac792b06b7c326f578201166b4b2b\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44

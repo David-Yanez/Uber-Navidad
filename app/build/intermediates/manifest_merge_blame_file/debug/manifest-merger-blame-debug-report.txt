@@ -112,7 +112,7 @@
 56        android:theme="@style/AppTheme" >
 56-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:29:9-40
 57        <activity android:name="com.example.uber_navidad.Permisos" />
-57-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:30:9-46
+57-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:30:9-55
 57-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:30:19-43
 58        <!--
 59             The API key for Google Maps-based APIs is defined as a string resource.
@@ -150,13 +150,13 @@
 79            android:theme="@style/AppTheme.NoActionBar" />
 79-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:52:13-56
 80        <activity android:name="com.example.uber_navidad.TarjetaCredito" />
-80-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:53:9-52
+80-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:53:9-61
 80-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:53:19-49
 81        <activity android:name="com.example.uber_navidad.MainActivity" />
-81-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:54:9-50
+81-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:54:9-59
 81-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:54:19-47
 82        <activity android:name="com.example.uber_navidad.RegistroRepartidor" />
-82-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:55:9-56
+82-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:55:9-65
 82-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:55:19-53
 83        <activity android:name="com.example.uber_navidad.SplashScreemMain" >
 83-->C:\Users\jerss\Documents\ProyectoSoftware\final\Uber-Navidad\app\src\main\AndroidManifest.xml:56:9-62:20
