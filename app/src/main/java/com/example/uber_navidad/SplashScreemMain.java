@@ -14,8 +14,8 @@ public class SplashScreemMain extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_screem_main);
 
-        pasajero = (Button)findViewById(R.id.id_pasajero);
-        conductor = (Button)findViewById(R.id.id_conductor);
+        pasajero = findViewById(R.id.id_pasajero);
+        conductor = findViewById(R.id.id_conductor);
 
         pasajero.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -27,11 +27,11 @@ public class SplashScreemMain extends AppCompatActivity {
             }
         });
 
-      /*  conductor.setOnClickListener(new View.OnClickListener() {
+      conductor.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent( SplashScreemMain.this,EleccionVehiculo.class));
+                startActivity(new Intent( SplashScreemMain.this, RegistroRepartidor.class));
             }
-        });   */
+        });
     }
 }

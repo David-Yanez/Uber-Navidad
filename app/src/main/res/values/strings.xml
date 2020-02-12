@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Uber-Navidad</string>
+    <string name="app_name">Uber Navideño</string>
     <string name="id_pasajero">Cliente</string>
     <string name="id_conductor">Repartidor</string>
     <string name="txt_cedula">Cédula</string>
@@ -31,4 +31,14 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="title_activity_google_maps">Map</string>
     <string name="title_activity_menu_bar">MenuBar</string>
+    <string name="registro_de_repartidor">Registro de Repartidor</string>
+    <string name="nombres">Nombres:</string>
+    <string name="apellidos">Apellidos:</string>
+    <string name="numero_de_cedula">Número de Cédula:</string>
+    <string name="fecha_de_nacimiento_aaaa_mm_dd">Fecha de Nacimiento: aaaa-mm-dd</string>
+    <string name="direcci_n">Dirección:</string>
+    <string name="e_mail">e-mail:</string>
+    <string name="password">Password:</string>
+    <string name="repetir_password">Repetir Password:</string>
+    <string name="siguiente">Siguiente</string>
 </resources>

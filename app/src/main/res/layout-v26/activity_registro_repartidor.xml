@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".RegistroRepartidor">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/navidad3">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewRegistro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/registro_de_repartidor"
+                android:textAlignment="center"
+                android:textColor="@color/colorAccent"
+                android:textSize="22sp"
+                android:translationX="100dp" />
+
+            <EditText
+                android:id="@+id/nombresRegistro"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/ovalo"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:gravity="center"
+                android:hint="@string/nombres"
+                android:textColor="@color/ic_launcher_background"
+                android:autofillHints="" />
+
+            <EditText
+                android:id="@+id/apellidosRegistro"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/ovalo"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:gravity="center"
+                android:hint="@string/apellidos"
+                android:textColor="@color/ic_launcher_background" />
+
+            <EditText
+                android:id="@+id/cedulaRegistro"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/ovalo"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:gravity="center"
+                android:hint="@string/numero_de_cedula"
+                android:inputType="number"
+                android:textColor="@color/ic_launcher_background" />
+
+            <EditText
+                android:id="@+id/fechaRegistro"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/ovalo"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:gravity="center"
+                android:hint="@string/fecha_de_nacimiento_aaaa_mm_dd"
+                android:inputType="date"
+                android:textColor="@color/ic_launcher_background" />
+
+            <EditText
+                android:id="@+id/direccionRegistro"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/ovalo"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:gravity="center"
+                android:hint="@string/direccion"
+                android:inputType="textPersonName"
+                android:textColor="@color/ic_launcher_background" />
+
+            <EditText
+                android:id="@+id/mailRegistro"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/ovalo"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:gravity="center"
+                android:hint="@string/e_mail"
+                android:inputType="textEmailAddress"
+                android:textColor="@color/ic_launcher_background" />
+
+            <EditText
+                android:id="@+id/passRegistro"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/ovalo"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:gravity="center"
+                android:hint="@string/password"
+                android:inputType="textPassword"
+                android:textColor="@color/ic_launcher_background" />
+
+            <EditText
+                android:id="@+id/ValpassRegistro"
+                android:layout_width="match_parent"
+                android:layout_height="57dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/ovalo"
+                android:backgroundTint="@color/colorPrimaryDark"
+                android:gravity="center"
+                android:hint="@string/repetir_password"
+                android:inputType="textPassword"
+                android:textColor="@color/ic_launcher_background" />
+
+            <Button
+                android:id="@+id/btn_siguiente"
+                android:layout_width="218dp"
+                android:layout_height="32dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/botonverde"
+                android:gravity="center"
+                android:text="@string/siguiente" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

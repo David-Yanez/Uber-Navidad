@@ -1660,6 +1660,7 @@ id RegistroTarjeta
 id SHIFT
 id SYM
 id TF_location
+id ValpassRegistro
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -1721,6 +1722,7 @@ id alertTitle
 id all
 id always
 id amu_text
+id apellidosRegistro
 id async
 id auto
 id barrier
@@ -1728,8 +1730,10 @@ id beginning
 id blocking
 id bottom
 id btn_grant
+id btn_siguiente
 id button
 id buttonPanel
+id cedulaRegistro
 id center
 id center_horizontal
 id center_vertical
@@ -1756,6 +1760,7 @@ id design_menu_item_text
 id design_navigation_view
 id dialog_button
 id dimensions
+id direccionRegistro
 id direct
 id disableHome
 id drawer_layout
@@ -1767,6 +1772,7 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fab
+id fechaRegistro
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1811,6 +1817,7 @@ id line3
 id linearLayout
 id listMode
 id list_item
+id mailRegistro
 id map
 id map_one
 id masked
@@ -1839,6 +1846,7 @@ id nav_tools
 id nav_view
 id navigation_header_container
 id never
+id nombresRegistro
 id none
 id normal
 id notification_background
@@ -1852,6 +1860,7 @@ id parallax
 id parent
 id parentPanel
 id parent_matrix
+id passRegistro
 id percent
 id pin
 id place_autocomplete_clear_button
@@ -1958,6 +1967,7 @@ id textView3
 id textView4
 id textView5
 id textView6
+id textViewRegistro
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -2051,7 +2061,6 @@ layout activity_google_maps
 layout activity_main
 layout activity_menu_bar
 layout activity_permisos
-layout activity_registro_cliente
 layout activity_registro_repartidor
 layout activity_splash_screem_main
 layout activity_tarjeta_credito
